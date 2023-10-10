@@ -33,7 +33,7 @@ with open(resume,'rb') as f:
     pdf = f.read()
 profile_pic = Image.open(profile_photo)
 
-##Main section
+## --- MAIN SECTION ---
 col1, col2 = st.columns(2,gap='small')
 with col1:
     st.image(profile_pic, width=300)
@@ -55,11 +55,11 @@ with col2:
         st.write(f'[{key}]({social_media[key]})')
     st.write(phone)
 
-#Skills section
+## --- SKILLS ---
 st.write('\n')
 st.subheader('Skills')
 st.write("""
-- 👩‍💻 Programming: Python, SQL, Pyspark
+- 👩‍💻 Programming: Python, SQL, Pyspark, Streamlit
 - 📊 Data Visulization: MS Excel, PowerBi
 - 📚 Modeling & AI: Statistical modeling, Predictive modeling, Generative AI
 - 🗄️ Databases: Postgres, MySQL, Microsoft Server
@@ -76,9 +76,10 @@ st.write( "**Senior Consultant | Ernst & Young**")
 st.write("08/2023 - Present")
 st.write(
     """
-- ► Led the design, execution, and management of comprehensive digital analytics initiatives, focusing on data collection, interpretation, and actionable recommendations.
-- ► Performed in-depth analysis of website and mobile app metrics, including user engagement, traffic sources, clickstream data, and conversion rates, to identify opportunities for optimization.
-- ► Led A/B testing and experimentation initiatives to assess the impact of various website and app modifications, ensuring continuous improvement and optimization.
+- ► Conducted in-depth consultations and meetings with clients to gain a comprehensive understanding of their specific business challenges and objectives.
+- ► Leveraged advanced AI tools and frameworks, including Langchain, OpenAI, and Streamlit, to develop a suite of bespoke applications.
+- ► Designed and built customer servicing automation applications, streamlining client interactions, and enhancing overall customer experience.
+- ► Developed AI-powered solutions for Management Information System (MIS) reporting automation, significantly reducing manual effort and errors in reporting processes.
 """
 )
 
