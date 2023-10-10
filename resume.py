@@ -107,7 +107,37 @@ st.write(
 """
 )
 
-##Awards and Honors
+# -- ACADEMIC PROJECTS
+st.write('\n')
+st.subheader('Academic Projects')
+st.write('- **Ecommerce Website Analysis**')
+st.write(
+    """
+- • Analyzed product sales, refunds, and e-commerce website traffic using SQL queries to identify business opportunities and quantify company growth. 
+- • Conducted funnel analysis to identify areas for website improvement based on click-through and bounce rates. 
+- • Performed A/B testing on landing pages and analyzed results to optimize website performance. 
+- • Analyzed user journeys on the website to understand user behavior and improve website usability.
+""")
+st.write("Link to project : https://github.com/mananashah007/Ecommerce-Perfomance-Analysis")
+st.write('\n')
+st.write('- **Case study on a telecommuication company with Declining profits**')
+st.write(
+    """
+- • Conducted market research and root cause analysis to address declining profits for the client.
+- • Analyzed historical data to understand consumer behavior and changes in market demand, presenting actionable insights to stakeholders.
+- • Developed a proposal based on data-driven insights and presented it to stakeholders to address declining profits.
+""")
+st.write('\n')
+st.write('**Fake and Real Disaster tweets classification**')
+st.write(
+    """
+- • Extracted, cleaned and stored fake and real disaster tweets scrapped from twitter users.
+- • Using XGBoost model, created a classification model to identify real and fake tweets from this data.
+""")
+st.write('Link to project : https://github.com/mananashah007/Fake-Real-Disaster-Tweets')
+
+
+# -- AWARDS & HONORS
 st.write('\n')
 st.subheader('Awards and Recognition')
 st.write('- **BEST UPCOMING CONSULTANT** - For exceptional team leadership skills')
