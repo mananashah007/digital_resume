@@ -60,7 +60,7 @@ st.write('\n')
 st.subheader('Skills')
 st.write("""
 - 👩‍💻 Programming: Python, SQL, Pyspark, Streamlit
-- 📊 Data Visulization: MS Excel, PowerBi
+- 📊 Data Visulization: MS Excel, PowerBI
 - 📚 Modeling & AI: Statistical modeling, Predictive modeling, Generative AI
 - 🗄️ Databases: Postgres, MySQL, Microsoft Server
 """)
@@ -121,12 +121,16 @@ st.write(
 """)
 st.write("Link to project : https://github.com/mananashah007/Ecommerce-Perfomance-Analysis")
 st.write('\n')
-st.write('- **Case study on a telecommuication company with Declining profits**')
+st.write('- **Youtube Channel Analysis of Corey Schafer**')
 st.write(
     """
-- • Conducted market research and root cause analysis to address declining profits for the client.
-- • Analyzed historical data to understand consumer behavior and changes in market demand, presenting actionable insights to stakeholders.
-- • Developed a proposal based on data-driven insights and presented it to stakeholders to address declining profits.
+-   Corey Schafer is one of the best instructor of Python. Taking inspiration from his channel, this project
+    analyses the statistics of his channel using YoutubeAPI. The analysis includes: 
+    - No. of subscribers of the channel
+    - No. of Views on videos
+    - No. of likes and dislikes on the videos
+    - No. of comments on each video etc.
+    Link to project : https://github.com/mananashah007/Youtube-Channel-Analysis
 """)
 st.write('\n')
 st.write('**Fake and Real Disaster tweets classification**')
