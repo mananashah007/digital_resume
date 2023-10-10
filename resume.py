@@ -77,8 +77,8 @@ st.write("08/2023 - Present")
 st.write(
     """
 - ► Conducted in-depth consultations and meetings with clients to gain a comprehensive understanding of their specific business challenges and objectives.
-- ► Leveraged advanced AI tools and frameworks, including Langchain, OpenAI, and Streamlit, to develop a suite of bespoke applications.
-- ► Designed and built customer servicing automation applications, streamlining client interactions, and enhancing overall customer experience.
+- ► Leveraged Generative AI tools & frameworks, including Langchain, OpenAI, and Streamlit for website creation, to develop a suite of bespoke applications.
+- ► Designed and built customer servicing application which streamlined customer-client interactions, and enhanced overall customer experience.
 - ► Developed AI-powered solutions for Management Information System (MIS) reporting automation, significantly reducing manual effort and errors in reporting processes.
 """
 )
