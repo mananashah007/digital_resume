@@ -108,7 +108,7 @@ st.write(
 """
 )
 
-# -- ACADEMIC PROJECTS
+# --- ACADEMIC PROJECTS ---
 st.write('\n')
 st.subheader('Academic Projects')
 st.write('- **Ecommerce Website Analysis**')
@@ -130,8 +130,8 @@ st.write(
     - No. of Views on videos
     - No. of likes and dislikes on the videos
     - No. of comments on each video etc.
-    Link to project : https://github.com/mananashah007/Youtube-Channel-Analysis
 """)
+st.write('Link to project :  https://github.com/mananashah007/Youtube-Channel-Analysis')
 st.write('\n')
 st.write('**Fake and Real Disaster tweets classification**')
 st.write(
@@ -142,7 +142,7 @@ st.write(
 st.write('Link to project : https://github.com/mananashah007/Fake-Real-Disaster-Tweets')
 
 
-# -- AWARDS & HONORS
+# --- AWARDS & HONORS ---
 st.write('\n')
 st.subheader('Awards and Recognition')
 st.write('- **BEST UPCOMING CONSULTANT** - For exceptional team leadership skills')
