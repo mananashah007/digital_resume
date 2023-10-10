@@ -17,7 +17,7 @@ page_icon = ":wave:"
 name = "Manan Shah"
 description = """
 Senior Consultant specializing in leading cross-functional teams across FMCG, Supply Chain and Financial Services domain
-to help clients implement data-driven business strategies
+to help clients implement data-driven analytical solutions.
 """
 email = "shah.a.manan@gmail.com"
 phone = 'Contact : +91-9699288283'
